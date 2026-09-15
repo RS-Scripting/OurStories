@@ -19,7 +19,7 @@ And some... were simply accidents.
 **The Story of the Disenchanter**
 Steve spent years searching for a way to separate enchantments from the items that held them.
 
-[📖 Read the Journal Entry](stories/RS-DISenchanter.md)
+[📖 Read the Journal Entry](stories/RS-DisEnchanter.md)
 
 ---
 
