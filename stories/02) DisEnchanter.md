@@ -3,6 +3,8 @@
 ## ✦ Chapter 2 — The Disenchanter
 
 > *"Magic should not be lost simply because the vessel that held it is no longer useful."*
+>
+> — Steve
 
 ---
 
