@@ -30,7 +30,7 @@ Steve couldn't accept that the magic within an enchanted item should simply disa
 
 But not all magic was willing to leave quietly.
 
-[📖 Read the Journal Entry](stories/02%29%20Disenchanter.md)
+[📖 Read the Journal Entry](stories/02%29%20DisEnchanter.md)
 
 ---
 
