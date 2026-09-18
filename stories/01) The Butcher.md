@@ -2,93 +2,283 @@
 
 > *"There must be a better way than doing this myself every single day."*
 >
-> — Steve, from the pages of his research journal
+> — Steve
 
 ---
 
 ## ✦ Chapter 1 — The Butcher
 
-Steve had never minded hard work.  Building farms, tending crops, mining for materials, and gathering food were simply part of life. There was always something that needed to be done.
-But there was one task he had grown to hate.
+I have never minded hard work.
+
+Building farms. Tending crops. Mining for materials. Gathering food. These are simply things that need to be done, and I have never been one to complain about doing them.
+
+But there is one job I have grown to hate.
 
 **Butchering animals.**
 
-Every morning, he would walk through his fields, checking on his animals. Cows needed tending. Pigs needed feeding. Chickens needed gathering.  And eventually, the animals became 
-too numerous.  There was no avoiding it.  He would have to pick up his sword and begin the unpleasant task of reducing the herd.  It was not the killing itself that bothered him.  It 
-was the repetition.
+Every morning I walk through the fields and check on the animals. The cows need tending. The pigs need feeding. The chickens need gathering.
+
+And eventually, there are simply too many of them.
+
+There is no avoiding it. I pick up my sword and begin reducing the herd.
+
+It isn't the killing that bothers me.
+
+It is the repetition.
 
 Day after day.
 
 Week after week.
 
-The same animals. The same sword. The same work.  And when he wasn't tending his animals, there were hostile creatures to deal with.  Creepers in the fields.  Zombies wandering near the 
-house. Skeletons appearing at night.  He began to wonder if there was a way to make the work happen without him.
+The same animals.
+
+The same sword.
+
+The same work.
+
+And when I am not dealing with my own animals, there are always hostile creatures to contend with. Creepers in the fields. Zombies wandering near the house. Skeletons appearing after dark.
+
+Sometimes I find myself wondering how much of my life is spent doing things that could perhaps be done by someone—or something—else.
+
+There must be a better way than doing this myself every single day.
 
 ---
 
 ## ✦ The Experiment
 
-Steve had spent years studying the strange relationship between magic and the objects of the world.  He had seen ordinary objects perform extraordinary things when touched by the right kind 
-of magic.  So he began experimenting.  His first attempts were disappointing.  A sword enchanted with one spell would simply glow.  A tool placed beneath another spell would do nothing at all.
- He tried commanding tools to move on their own.  Nothing.  He tried giving simple instructions to objects.  Still nothing.
+I have spent years studying the strange relationship between magic and the objects of this world.
 
-Then, one evening, Steve noticed something unusual.  An armor stand.  It stood quietly in the corner of his workshop, holding an old set of armor that he no longer used.  He stared at it for a 
-long time. An armor stand was already shaped like a person and it could wear armor.
+I have seen ordinary things perform extraordinary tasks when exposed to the right kind of magic.
 
-Perhaps, he thought, it didn't need to become alive.  Perhaps it only needed to be **given purpose**.
+So I began experimenting.
+
+My first attempts were disappointing.
+
+A sword enchanted with one spell would simply glow.
+
+A tool placed beneath another spell would do nothing at all.
+
+I tried commanding tools to move on their own.
+
+Nothing.
+
+I tried giving simple instructions to objects.
+
+Still nothing.
+
+I was beginning to think I was wasting my time.
+
+Then, one evening, I noticed the armor stand in the corner of my workshop.
+
+It had been there for months, perhaps longer. It was holding an old set of armor that I no longer used.
+
+I stared at it for quite some time.
+
+An armor stand is already shaped like a person.
+
+It can wear armor.
+
+It can stand where I place it.
+
+Perhaps I have been approaching this all wrong.
+
+Perhaps I don't need to make it alive.
+
+Perhaps I only need to give it **purpose**.
 
 ---
 
 ## ✦ The Awakening
 
-Steve returned to his experiments.  This time, he changed his approach.  Instead of trying to make the armor stand move, he tried something much stranger.
-He tried to give it a task.  The first attempt did nothing.  The second caused the armor stand to fall over.  The third made it turn slightly before becoming completely still again.  A fourth 
-attempt gave it arms.  Now it could hold weapons and tools as well but still there was no success making it kill.
+I returned to my experiments the following evening.
 
-He was beginning to think he had wasted another evening. But, in the back of his mind there was at least some solace and light in the darkness of failure. He had discovered the way to give it
-the ability to hold weapons and tools and that gave him some small sense of success, despite the stand still not killing anything.
+This time I changed my approach.
 
-Then he heard something behind him.
+Instead of trying to make the armor stand move, I tried to give it a task.
+
+The first attempt did nothing.
+
+The second caused the armor stand to fall over.
+
+The third made it turn slightly before becoming completely still again.
+
+The fourth attempt was different.
+
+It gave the stand arms.
+
+At first, I considered that a failure as well. It still wouldn't kill anything.
+
+But then I realized what I had actually accomplished.
+
+It could hold things.
+
+Weapons.
+
+Tools.
+
+Perhaps even other objects.
+
+That gave me some small sense of success, despite the fact that I still had no idea how to make it do the one thing I wanted.
+
+I was about to give up for the evening when I heard something behind me.
 
 **Clank.**
 
-Steve turned. The armor stand was standing.  He stared at it.  The armor stand stared back.
+I turned around.
 
-At least, it appeared to.  Then he noticed it was holding his sword.
+The armor stand was standing.
+
+I stared at it.
+
+It stared back.
+
+At least, it appeared to.
+
+Then I noticed something that made me stop breathing for a moment.
+
+It was holding my sword.
+
+I had not put the sword in its hands.
 
 ---
 
 ## ✦ The First Butcher
 
-Steve wasn't sure what would happen next.
+I wasn't sure what would happen next.
 
-He opened the door to the animal pen and waited.  For a moment, nothing happened.  Then the work was done.
-Steve stood completely still. He had not even seen the armor stand move!  The armor stand simply waited.  Steve couldn't believe what he had witnessed.  He gave it another task.
-The result was the same.  The strange creation didn't complain.  It didn't get tired.  It didn't ask for food.  It simply waited for Steve to give it something to do.
+There was only one way to find out.
 
-For the first time in a very long while, Steve could walk away from the animal pens without worrying about what needed to be done next.
+I opened the door to the animal pen and waited.
+
+Nothing happened.
+
+The armor stand didn't move.
+
+I waited longer.
+
+Still nothing.
+
+Then suddenly...
+
+The work was done.
+
+I stood completely still.
+
+I hadn't seen the armor stand move.
+
+I hadn't even heard it approach.
+
+The animal was simply gone.
+
+I looked at the armor stand.
+
+It was back where I had left it.
+
+Standing.
+
+Waiting.
+
+I gave it another task.
+
+The result was the same.
+
+It didn't complain.
+
+It didn't get tired.
+
+It didn't ask for food.
+
+It simply waited for me to give it something to do.
+
+I think I stood there for several minutes just staring at it.
+
+For the first time in a very long while, I could walk away from the animal pens without worrying about what needed to be done next.
+
+I may have finally found the answer to my problem.
 
 ---
 
 ## ✦ Something Else Was Waiting
 
-But Steve soon discovered that his creation had a broader understanding of its purpose than he expected.  One night, a group of hostile creatures wandered too close to his home.
-Steve reached for his sword.  Before he could draw it, he heard the familiar sound of metal cutting through flesh and bone.
+I discovered something else that night.
 
-The armor stand hadn't even moved.  But the hostile creatures were destroyed.  The Armor stand was still in its place.  Waiting.
-Steve had created something he never intended to create.  It wasn't simply a helper for the animal pens.  It could protect the place he called home.  It could handle the work Steve had grown 
-tired of doing himself.  And perhaps most importantly...
+I hadn't intended for the armor stand to deal with hostile creatures.
 
-**It could do it while Steve was somewhere else. Or Asleep**
+At least, I don't think I did.
+
+A group of zombies wandered too close to my home after dark.
+
+I reached for my sword.
+
+Before I could draw it, I heard the familiar sound of metal cutting through flesh and bone.
+
+**Clank.**
+
+Then silence.
+
+I looked toward the armor stand.
+
+It hadn't moved.
+
+The zombies were gone.
+
+I checked the area.
+
+Nothing.
+
+I returned to the armor stand.
+
+It was still standing in its place.
+
+Waiting.
+
+That was when I realized I had created something different from what I originally intended.
+
+I hadn't simply made a helper for the animal pens.
+
+I had created something that understood its purpose.
+
+Something that could deal with the work I had grown tired of doing myself.
+
+And perhaps most importantly...
+
+**It could do it while I was somewhere else.**
+
+Even while I was asleep.
 
 ---
 
 ## ✦ The Butcher
 
-Steve never discovered exactly where the magic came from.  Perhaps that was the most interesting part.  He had not created life.  He had not created a creature.  He had simply found a way to give purpose to 
-something that had never possessed one.  And so, the first **MobStand** came to be.
+I still don't know exactly where the magic came from.
 
-An armor stand brought to life by magic, given a task, and trusted to carry it out.  Steve recorded the discovery carefully in his journal.  But at the bottom of the page, he added one final thought:
+Perhaps I never will.
+
+Maybe that is the most interesting part of all.
+
+I did not create life.
+
+I did not create a creature.
+
+I simply found a way to give purpose to something that had never possessed one.
+
+An armor stand.
+
+Something ordinary.
+
+Something that had spent its existence standing still.
+
+Until now.
+
+I have decided to call it a **MobStand**.
+
+An armor stand brought to life by magic, given a task, and trusted to carry it out.
+
+I have written down everything I can remember about the process.
+
+There are still many things I don't understand.
+
+But tonight, before I close this journal, there is one question I cannot stop thinking about.
 
 > **"If I can teach an armor stand to do one job..."**
 >
@@ -96,20 +286,22 @@ An armor stand brought to life by magic, given a task, and trusted to carry it o
 
 ---
 
-*Steve's experiments had only just begun.*
+*My experiments have only just begun.*
 
-*He had no idea how many other problems could be solved by the strange magic he had discovered.*
+*I have a feeling there are many other problems that might be solved with this strange magic.*
 
 ---
 
-## ✦ Acquire Steve's Process
+## ✦ A Note About My Work
 
-Steve's discovery eventually became more than an experiment in his workshop. The process was refined, preserved, and made available to those who wished to put these strange helpers to work.
+I have spent considerable time refining the process.
 
-If you wish to put Steve's discovery to use on your own server, you can acquire the **MobStand** and give your own magical helper a purpose.
+What began as an experiment in my workshop has become something that can be recreated by others.
 
-### **[Acquire Steve's MobStand](https://www.spigotmc.org/resources/rs-mobstand.136006/)**
+If you have an armor stand of your own and wish to give it a purpose, I have preserved the process so that others may put it to work.
 
-*Give it a task.* 
+### **[Acquire My MobStand](https://www.spigotmc.org/resources/rs-mobstand.136006/)**
 
-*Then let Steve's discovery do the work.*
+*Give it a task.*
+
+*Then let my discovery do the work.*
