@@ -15,11 +15,10 @@ And some... were simply accidents.
 
 ## 📚 Journal Entries
 
-### 🪄 RS-DISenchanter
-**The Story of the Disenchanter**
+### 🪄 RS-MobStand
 Steve spent years searching for a way to separate enchantments from the items that held them.
 
-[📖 Read the Journal Entry](stories/DisEnchanter.md)
+[📖 Read the Journal Entry](stories/01%29%20The%20Butcher.md)
 
 ---
 
