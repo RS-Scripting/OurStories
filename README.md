@@ -15,7 +15,7 @@ And some... were simply accidents.
 
 ## 📚 Journal Entries
 
-### 🪄 RS-MobStand
+###  Entry 1 - RS-MobStand
 Steve spent years butchering animals by day and fighting monsters by night.  He journal entry shows how he discovered a spell that gave those tasks to an armor stand.
 
 [📖 Read the Journal Entry](stories/01%29%20The%20Butcher.md)
