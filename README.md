@@ -34,6 +34,18 @@ But not all magic was willing to leave quietly.
 
 ---
 
+### ✦ Entry 3 — RS-MobCages
+
+After discovering how to make an armor stand carry out his work, Steve soon encountered another problem — moving the creatures he had collected.
+
+Ordinary pens and fences could keep creatures contained, but they did little to help when Steve needed to move them. His experiments eventually led to a strange discovery: a cage that could hold a creature within its magic and release it whenever it was needed.
+
+But Steve soon discovered that capturing a creature was only the beginning.
+
+[📖 Read the Journal Entry](stories/03%29%20The%20Cages.md)
+
+---
+
 ## ✦ The Journal Continues...
 
 Steve's discoveries did not end with the entries recorded here. There are still problems to solve. Still mysteries to uncover. And somewhere out there, Steve is still working on his next discovery.
