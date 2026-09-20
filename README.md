@@ -48,7 +48,7 @@ But Steve soon discovered that capturing a creature was only the beginning.
 
 ## ✦ The Journal Continues...
 
-Steve's discoveries did not end with the entries recorded here. There are still problems to solve. Still mysteries to uncover. And somewhere out there, Steve is still working on his next discovery.
+Steve's discoveries did not end with the entries recorded here. There are many more entries in his journal.  check back often as we will post more entries from his journal as we translate and decipher them.  There appears to be many, many more discoveries within those pages, waiting for our translators to uncover their secrets 
 
 > *"There's always a better way."*
 
