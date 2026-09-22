@@ -46,9 +46,18 @@ But Steve soon discovered that capturing a creature was only the beginning.
 
 ---
 
+### ✦ Entry 4 — RS-Warehouse
+
+After years of collecting materials, Steve found himself surrounded by chests — and increasingly unable to remember where anything was. What began as an attempt to solve his own storage problem eventually became something far more powerful: a magical system capable of keeping track of everything he owned.
+
+But Steve soon discovered that storing things was only the beginning.
+
+[📖 Read the Journal Entry](stories/04%29%20The%20Warehouse.md)
+
+
 ## ✦ The Journal Continues...
 
-Steve's discoveries did not end with the entries recorded here. There are many more entries in his journal.  check back often as we will post more entries from his journal as we translate and decipher them.  There appears to be many, many more discoveries within those pages, waiting for our translators to uncover their secrets 
+Steve's discoveries did not end with the entries recorded here. There are still problems to solve. Still mysteries to uncover. And somewhere out there, Steve is still working on his next discovery.
 
 > *"There's always a better way."*
 
