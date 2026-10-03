@@ -56,6 +56,11 @@ For the first time, I realized that I hadn't created a way to build better pens.
 
 ---
 
+## ✦ The Downside
+Each type of mob requires the magic to be tailored to it. Sheep, cows, pigs, zombies, skeletons, all need to be specifically listed in the magical spell for the cage to be compatible with it.  As time passes, I am adding more and more animals and monsters to the spells within the cage.  
+
+---
+
 ## ✦ The Cages
 
 I have decided to call them **MobCages**.
