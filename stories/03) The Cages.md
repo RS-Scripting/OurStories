@@ -56,8 +56,10 @@ For the first time, I realized that I hadn't created a way to build better pens.
 
 ---
 
-## ✦ The Downside
-Each type of mob requires the magic to be tailored to it. Sheep, cows, pigs, zombies, skeletons, all need to be specifically listed in the magical spell for the cage to be compatible with it.  As time passes, I am adding more and more animals and monsters to the spells within the cage.  
+## ✦ The Downsides
+I Discovered the hard wat that each type of mob requires the magic to be tailored to it. Sheep, cows, pigs, zombies, skeletons, all need to be specifically listed in the magical spell for the cage to be compatible with it.  As time passes, I am adding more and more animals and monsters to the spells within the cage.  While battling an uknown monster I attempted to use the cage to capture the beast to ensure a small break from the fighting only to discover it would not capture and store the beast.  I knew immediately why.
+
+Also, an injured beast, peaceful and hostile alike cannot be captured if hurt.  My beast had gotten hit from a skeleton.  An arrow sticking from it's side. I attempted to put it in the cage so it may live until we get home.  Alas, The cage would not store the injured animal.
 
 ---
 
