@@ -1,0 +1,44 @@
+# Chapter 4 — The Magnet
+
+*“A good enchantment should know what I seek, not punish me for everything I touch along the way.”*
+
+## The Beginning
+
+My experiments with the ItemMagnet have been progressing well. I have taught it to gather scattered items and transport them to a container of my choosing. A chest, a barrel, or even a hopper can serve as its destination.
+But I have discovered a small annoyance that has made my work far more tedious than it should be. The enchantment requires me to designate a destination before it can begin its work. That is reasonable enough. Even the cleverest magic must know where its gathered treasures belong.  The trouble is two-fold.  One, Each magnet may only transport items to a single container. Luckily though I was able to assign items for the magnets to gather, allowing the use of multiple magnets to work in the same area gathering items and creating a sort of sorter system.
+
+The other, bigger problem, begins when I must travel to find that destination.
+
+## The Problem
+
+While searching for a suitable container, I often encounter other things along the way. Doors must be opened. Gates must be passed through. Levers and buttons operate the mechanisms I have built into my workshops, and trapdoors provide access to places I would rather not climb into. Yet the ItemMagnet seems to regard every one of these encounters as a mistake. I reach for a button to open a passage, and the enchantment interrupts me to complain that I have not selected a proper container. I try a lever, and I receive the same objection. The destination remains unchosen, of course, but the interruption is unnecessary. I was never trying to make a button into a storage vessel!
+
+I found myself wondering why the enchantment could not distinguish between a genuine mistake and an ordinary part of my journey.
+
+## The Search
+
+At first, I considered whether the enchantment should simply ignore every block that could not hold items.  But that would be careless work.  There are plenty of blocks that cannot store items, and a warning is useful when I genuinely attempt to select the wrong one. If I click a furnace, a crafting table, or an ordinary stone block, I should be told that it cannot serve as the ItemMagnet's destination.
+
+The problem was not that the enchantment complained. The problem was that it complained at the wrong time.  I needed to find a distinction between blocks that I might reasonably interact with while travelling and blocks that I had mistakenly chosen as a destination.
+
+## The Discovery
+
+I returned to my experiments and began teaching the enchantment patience.  Doors, buttons, levers, trapdoors, and fence gates were given special consideration. When I interacted with one of these mechanisms during destination selection, the ItemMagnet would no longer interrupt me with an error.  More importantly, it would not abandon the task I had given it.  The search remained active. I could open a door, operate a lever, pass through a gate, and continue toward my intended container. Those mechanisms would behave as they always had, while the enchantment quietly waited for me to make the proper selection.
+
+When I finally chose a chest, barrel, or hopper, the ItemMagnet could accept the destination as intended.  And when I deliberately selected some other unsuitable block, the familiar warning remained.  At last, the enchantment understood the difference between an obstacle along the way and a mistake in my work.
+
+## A Lesson in Restraint
+
+This discovery taught me something I had overlooked.  Magic does not become more useful simply by reacting to everything. Sometimes, the cleverest response is to do nothing at all.  A warning should appear when it helps me correct an actual mistake. It should not appear merely because I happened to use a nearby mechanism while carrying out another task.  The ItemMagnet is meant to make my work easier, not demand my attention at every turn. By learning when to remain silent, it has become a more dependable tool.
+
+## A Note About My Work
+
+I have recorded this refinement in my notes so that I do not forget the lesson.  The ItemMagnet must remain attentive to its purpose, but it must also leave the world around it alone. A door is still a door. A lever is still a lever. And a destination is only a destination when I choose a suitable container.  There are many more enchantments I wish to study. If I can teach one to gather what others leave behind, perhaps I can teach other tools to work with the same patience.  For now, I shall return to my workshop. The scattered items have begun to accumulate again, and I have a feeling my next experiment will require a place to store them all.
+
+---
+
+## Acquire Steve's Process
+
+**The principle:** Good automation should distinguish between an invalid choice and an unrelated interaction.
+**The practical lesson:** During destination selection, ignore known interactive mechanisms without cancelling their normal behavior or ending the selection process. Continue to report genuinely unsuitable target blocks.
+**The result:** A smoother, less disruptive experience that lets the player finish the task without unnecessary interruptions.
