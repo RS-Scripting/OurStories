@@ -39,6 +39,8 @@ I have recorded this refinement in my notes so that I do not forget the lesson. 
 
 ## Acquire Steve's Process
 
+### **[Acquire My Magent]([https://www.spigotmc.org/resources/rs-warehouse.138709/](https://www.spigotmc.org/resources/rs-itemmagnet.136008/))**
+
 **The principle:** Good automation should distinguish between an invalid choice and an unrelated interaction.
 **The practical lesson:** During destination selection, ignore known interactive mechanisms without cancelling their normal behavior or ending the selection process. Continue to report genuinely unsuitable target blocks.
 **The result:** A smoother, less disruptive experience that lets the player finish the task without unnecessary interruptions.
