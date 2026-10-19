@@ -54,6 +54,17 @@ But Steve soon discovered that storing things was only the beginning.
 
 [📖 Read the Journal Entry](stories/04%29%20The%20Warehouse.md)
 
+---
+
+### ✦ Entry 5 — RS-ItemMagnet
+
+Steve had grown tired of chasing after scattered items and carrying every last resource back to storage himself. His experiments led him to discover a way to draw dropped items toward a chosen container, allowing the magic to do the collecting while he focused on more important work.
+
+But teaching the magic where to send everything — and when to leave him alone — required a little more patience than he expected.
+
+[📖 Read the Journal Entry](stories/05%29%20The%20Magnet.md)
+
+---
 
 ## ✦ The Journal Continues...
 
