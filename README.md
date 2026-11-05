@@ -70,7 +70,7 @@ But teaching the magic where to send everything — and when to leave him alone 
 
 Loss of direction.  That is the most frustrating part of exploring.  The compass works fine but always points back toward home. Steve has grown tired of having to constantly stop and check the compass then figure out which way to turn to continue in his desired direction.  This invention now allows him to simply look ahead and always know the direction he is pointing in.
 
-[📖 Read the Journal Entry](stories/06%29%20The%20compass.md)
+[📖 Read the Journal Entry](stories/06%29%20The%20Compass.md)
 
 ---
 
